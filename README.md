@@ -1,6 +1,6 @@
 # Command-Command Dasar
 
-## Buat Folder
+## 1.Buat Folder
 ```
 mkdir nama-folder
 ```
