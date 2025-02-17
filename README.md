@@ -1,4 +1,4 @@
-# Command-Command Dasar
+# Command Dasar
 
 ## 1. Folder
 ```
