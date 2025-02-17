@@ -129,6 +129,10 @@ sudo apt-get remove --purge -y python3.* && sudo apt-get autoremove -y && sudo a
 #Menjalankan Python
 python3 namafile.py
 ```
+```
+#Virtual Environment
+python3 -m venv myvenv
+```
 
 ## 8. Update Sistem VPS
 ```
