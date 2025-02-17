@@ -139,7 +139,7 @@ python3 -m venv myvenv
 socks5://username:password@ip:port
 socks4://username:password@host:port
 http://username:password@host:port
-
+```
 ## 9. Update Sistem VPS
 ```
 sudo apt update && sudo apt upgrade -y
