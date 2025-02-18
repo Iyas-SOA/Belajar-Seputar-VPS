@@ -1,6 +1,9 @@
 # Pembahasan
-1. VPS
-2. PROXY
+## 1. VPS
+### Apa itu VPS ?
+VPS (Virtual Private Server) adalah layanan hosting yang memberi kamu server virtual yang terpisah meski berada di server fisik yang sama dengan pengguna lain. Dengan VPS, kamu punya lebih banyak kontrol dan sumber daya sendiri, sehingga cocok untuk kebutuhan website yang lebih besar dan butuh performa lebih baik dibanding hosting biasa.
+
+## 2. PROXY
 
 # Command Dasar
 ## 1. Folder
