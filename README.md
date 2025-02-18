@@ -1,3 +1,7 @@
+# Pembahasan
+1. VPS
+2. PROXY
+
 # Command Dasar
 
 ## 1. Folder
