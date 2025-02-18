@@ -1,7 +1,14 @@
 # Pembahasan
 ## 1. VPS
-### Apa itu VPS ?
+### Apa itu VPS
 VPS (Virtual Private Server) adalah layanan hosting yang memberi kamu server virtual yang terpisah meski berada di server fisik yang sama dengan pengguna lain. Dengan VPS, kamu punya lebih banyak kontrol dan sumber daya sendiri, sehingga cocok untuk kebutuhan website yang lebih besar dan butuh performa lebih baik dibanding hosting biasa.
+### Kegunaan VPS untuk Bot atau Node Airdrop
+1. Menjalankan Bot Secara Terus-Menerus**: VPS memungkinkan bot berjalan 24/7 tanpa gangguan. Karena VPS tidak terhubung langsung dengan komputer pribadi, bot bisa terus aktif tanpa perlu khawatir akan mati atau terhenti karena perangkat pribadi dimatikan atau mati listrik.
+2. **Kecepatan dan Kestabilan**: VPS menyediakan koneksi internet yang lebih cepat dan stabil, yang penting untuk bot yang memerlukan respon cepat, misalnya saat ikut serta dalam airdrop atau transaksi kripto.
+3. Menghindari Batasan IP**: Dengan VPS, kamu bisa menggunakan IP yang berbeda untuk setiap bot, mengurangi risiko diblokir atau terdeteksi oleh platform yang mengadakan airdrop.
+4. Kinerja Lebih Baik**: VPS dengan sumber daya yang terdedikasi membuat bot dapat bekerja lebih cepat, menangani lebih banyak permintaan, dan mengurangi lag atau downtime.
+5. Privasi dan Keamanan**: VPS memberi lebih banyak kontrol terhadap pengaturan keamanan, seperti firewall atau enkripsi, yang penting saat menjalankan bot atau terlibat dalam airdrop yang memerlukan data pribadi atau kripto.
+6. Mengelola Banyak Akun**: Dengan VPS, kamu bisa menjalankan beberapa bot secara bersamaan tanpa masalah, sangat berguna jika kamu berencana untuk mengikuti banyak airdrop atau transaksi pada waktu yang sama.
 
 ## 2. PROXY
 
