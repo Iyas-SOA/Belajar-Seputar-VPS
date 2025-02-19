@@ -20,6 +20,26 @@ Proxy itu perantara antara perangkatmu dan internet. Saat kamu browsing pakai pr
 4. Keamanan Tambahan – Melindungi identitas dan data pribadi saat menjalankan bot atau node.
 5. Mengakses Airdrop yang Dibatasi Wilayah – Jika suatu airdrop hanya tersedia di negara tertentu, proxy bisa digunakan untuk mengaksesnya dari lokasi yang diizinkan.
 
+## 3. GIT, DOCKER, GO (GOLANG), NODE.JS & PYTHON
+Git, Docker, Golang, Node.js, dan Python adalah teknologi yang sering digunakan dalam pengembangan bot atau node untuk airdrop dan blockchain.
+Berikut penjelasannya dalam konteks bot dan node airdrop:
+1. Git
+• Digunakan untuk mengelola dan berbagi kode bot atau node di platform seperti GitHub atau GitLab.
+• Developer biasanya meng-clone repository proyek airdrop untuk menjalankan node atau bot.
+2. Docker
+• Memudahkan deployment bot atau node dalam container tanpa perlu menginstal semua dependency secara manual.
+• Banyak proyek blockchain menyediakan Docker image untuk menjalankan node dengan cepat.
+3. Golang (Go)
+• Banyak blockchain seperti Cosmos, Polkadot, dan Ethereum menggunakan Golang untuk membangun node mereka.
+• Node validator atau full node sering kali berbasis Go.
+4. Node.js
+• Sering digunakan untuk membuat bot otomatis yang berinteraksi dengan API blockchain atau smart contract.
+• Beberapa bot untuk airdrop menggunakan Node.js karena kemudahan integrasi dengan JavaScript.
+5. Python
+• Digunakan untuk membuat bot airdrop, terutama untuk scrapping data, berinteraksi dengan API, atau mengotomatiskan transaksi di blockchain.
+• Banyak bot yang menggunakan Web3.py untuk berinteraksi dengan jaringan Ethereum dan EVM.
+
+
 # Command Dasar
 ## 1. Folder
 ```
@@ -113,7 +133,7 @@ docker stop <IDContainer>
 docker rm <IDContainer>
 ```
 
-## 5. GO
+## 5. GO (Golang)
 ```
 #Install GO
 LATEST_GO=$(curl -s https://go.dev/VERSION?m=text) && wget https://go.dev/dl/${LATEST_GO}.linux-amd64.tar.gz && sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf ${LATEST_GO}.linux-amd64.tar.gz && echo "export PATH=\$PATH:/usr/local/go/bin:\$HOME/go/bin" >> ~/.bash_profile && source ~/.bash_profile && go version
