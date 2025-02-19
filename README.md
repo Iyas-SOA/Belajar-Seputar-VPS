@@ -23,7 +23,8 @@ Proxy itu perantara antara perangkatmu dan internet. Saat kamu browsing pakai pr
 ## 3. GIT, DOCKER, GO (GOLANG), NODE.JS & PYTHON
 Git, Docker, Golang, Node.js, dan Python adalah teknologi yang sering digunakan dalam pengembangan bot atau node untuk airdrop dan blockchain.
 Berikut penjelasannya dalam konteks bot dan node airdrop:
-• Git
+1. Git
+
 Digunakan untuk mengelola dan berbagi kode bot atau node di platform seperti GitHub atau GitLab.
 Developer biasanya meng-clone repository proyek airdrop untuk menjalankan node atau bot.
 • Docker
